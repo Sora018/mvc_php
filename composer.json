@@ -1,0 +1,11 @@
+{
+    "name": "admin/pwii_mcv_php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
